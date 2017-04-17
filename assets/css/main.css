@@ -2510,7 +2510,7 @@
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
 
 		/* Basic */
 
