@@ -2516,6 +2516,7 @@
 
 			body, input, textarea, select {
 				font-size: 14pt;
+				color: red;
 			}
 
 			#title {
