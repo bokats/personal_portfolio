@@ -2510,13 +2510,12 @@
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+	@media screen and (max-width: 950px) {
 
 		/* Basic */
 
 			body, input, textarea, select {
 				font-size: 14pt;
-				color: red;
 			}
 
 			#title {
