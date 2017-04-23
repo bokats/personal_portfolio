@@ -1699,6 +1699,7 @@
 	.image {
 		display: inline-block;
 		border: 0;
+		background: no-repeat center center fixed;
 	}
 
 		.image img {
@@ -1725,6 +1726,8 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			height: 100%;
+			background: no-repeat center center fixed;
 		}
 
 		.image.featured {
